@@ -1,6 +1,6 @@
-firstfloor <- 100:149
-secondfloor <- 200:249
-thirdfloor <- 300:349
+firstfloor <- 100:139
+secondfloor <- 200:239
+thirdfloor <- 300:339
 
 allRooms <- c(firstfloor, secondfloor, thirdfloor)
 
